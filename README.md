@@ -9,5 +9,5 @@ Also, outside of work, I enjoy:
 📚 Reading - Self-help and psychology books
 
 Connect with Me:
-LinkedIn : <a href="https://www.linkedin.com/in/bilal-mezouar-363387140/"> Here </a> 
-E-Mail : bilalmezouar@hotmail.fr
+ -  <a href="https://www.linkedin.com/in/bilal-mezouar-363387140/"> Linkedin </a> 
+ -  E-Mail : bilalmezouar@hotmail.fr
