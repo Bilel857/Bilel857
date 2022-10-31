@@ -10,4 +10,5 @@ Also, outside of work, I enjoy:
 
 Connect with Me:
  -  <a href="https://www.linkedin.com/in/bilal-mezouar-363387140/"> Linkedin </a> 
- -  E-Mail : bilalmezouar@hotmail.fr
+ -  <a href="mailto: bilalmezouar@hotmail.fr">E-mail</a>
+
