@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there ✌, I am Bilal Mezouar
 
-<!--
-**Bilel857/Bilel857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a data scientist, I strive to transform data into valuable insights. I use a variety of methods from descriptive and predictive analytics, all the way to optimization and prescriptive analytics to drive business outcomes, better decision-making, and reduce costs. Feel free to download my resume or visit my website to know more about my skills and experience.
 
-Here are some ideas to get you started:
+Also, outside of work, I enjoy:
+🤸 Calisthenics - Outdoor or at the gym
+🎬 Video Production - DaVinci Resolve
+🧀 Cheese - Best food on Earth
+📚 Reading - Self-help and psychology books
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with Me:
+LinkedIn
+E-Mail
